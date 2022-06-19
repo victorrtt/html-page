@@ -12,7 +12,7 @@ Es una pagina muy basica pero sirve de ejemplo para mostrar etiquetas sencillas 
 Este proyecto es libre para todo publico.
 
 (EN)
-In the next html. document the code you use is shown for create the page.
+In the next html. document the code i use is shown for create the page.
 It is a very basic page but it serves as an example to show simple labels and the coding.
 
 -It includes a Hyperlink code.
